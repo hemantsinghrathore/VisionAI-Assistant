@@ -62,19 +62,27 @@ The application presents annotated detection results, confidence scores, process
 
 ### Home Page
 
-![VisionAI Home Page](screenshots/home.png)
+![VisionAI Home Page](screenshots/01home.png)
 
 ### Image Upload
 
-![Image Upload](screenshots/upload.png)
+![Image Upload](screenshots/02image_upload.png)
+
+### Detected Image
+
+![Object Detected Image](screenshots/03detected_image.png)
 
 ### Detection Result
 
-![Object Detection Result](screenshots/detection-result-1.png)
+![Object Detected Image](screenshots/04detection_result.png)
+
+### Detection Table
+
+![Object Detection Table](screenshots/05detection_table.png)
 
 ### Detection Analytics
 
-![Detection Analytics](screenshots/detection-result-2.png)
+![Detection Analytics](screenshots/06detection_analysis.png)
 
 ---
 
