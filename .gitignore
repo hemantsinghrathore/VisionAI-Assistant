@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Environment variables / secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
